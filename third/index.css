@@ -1,0 +1,45 @@
+body {
+   margin: 0; 
+}
+
+header {
+    height: 88px;
+    width: auto;
+    background: lightgray;
+}
+.bluebox {
+    height: 67px;
+    width: 67px;
+    background: #4A90E2;
+    float: left;
+    margin: 10px 0 10px 15px
+}
+.whiteTextBox {
+    height: 175px;
+    width: auto;
+    background: white;
+    font-size: 20px;
+    margin: 25px 0 15px 10px;
+    text-align: left;
+    
+}
+.blueBar {
+    height: 105px;
+    width: auto;
+    background: #4A90E2; 
+}
+.tealBar {
+    height: 105px;
+    width: auto;
+    background: turquoise;
+}
+.greenBar {
+    height: 105px;
+    width: auto;
+    background: #B8E986;
+}
+.yellowBar {
+    height: 105px;
+    width: auto;
+    background: #F8E71C; 
+}

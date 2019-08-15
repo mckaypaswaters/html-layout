@@ -25,3 +25,6 @@ height: 750px;
     height: 100px;
     background: black;
 }
+body {
+    margin: 0;
+}

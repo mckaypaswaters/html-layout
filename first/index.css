@@ -1,0 +1,27 @@
+.top {
+    width: 100%;
+    height: 100px;
+    background: rgb(53, 53, 53);
+}
+.left-column {
+    width: 15%;
+    height: 850px;
+    background: rgb(159, 157, 157);
+    float: left;
+}
+.right-column {
+    width: 15%;
+    height: 850px;
+    background: rgb(159, 157, 157);
+    float: right;
+}
+.mid-content {
+background: rgb(226, 226, 226);
+width: 100%;
+height: 750px;
+}
+.bottom {
+    width: 100%;
+    height: 100px;
+    background: black;
+}

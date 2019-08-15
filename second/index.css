@@ -48,9 +48,15 @@ footer {
     height: 180px;
     width: 35%;
     margin: 20px 0 0 33%;
-    text-align: center;
     padding-top: 125px;
     font-size: 25px;
     color: navy;
     font-weight: bold;
+}
+.text {
+    
+    width: 165px;
+    margin: 0 0 0 150px;
+    text-align: center;
+    letter-spacing: 8px;
 }
